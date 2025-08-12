@@ -1,0 +1,7 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "description": "Test jetton for demo purposes.",
+  "image": "https://raw.githubusercontent.com/ton-community/ton-assets/main/jettons/ton-usdt/logo.png"
+}
