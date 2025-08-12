@@ -1,7 +1,7 @@
 {
   "name": "Tether USD",
-  "symbol": "USDT",
+  "symbol": "USDT.",
   "decimals": 6,
-  "description": "Test jetton for demo purposes.",
-  "image": "https://raw.githubusercontent.com/ton-community/ton-assets/main/jettons/ton-usdt/logo.png"
+  "description": "USD-pegged stablecoin for payments",
+  "image": "https://i.postimg.cc/ZKQB19tL/Usdt-1.png"
 }
