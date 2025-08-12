@@ -1,0 +1,8 @@
+{
+  "name": "My Test Token",
+  "symbol": "MTT",
+  "description": "My first token on TON blockchain",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/ТВОЙ_ЛОГИН/РЕПО/BRANCH/logo.png"
+}
+
